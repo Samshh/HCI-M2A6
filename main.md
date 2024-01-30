@@ -14,16 +14,21 @@ __[link](https://samshh.netlify.app/) and [source code](https://github.com/Samsh
 - Continuity - the elements of the logo are arrenged in a line
 # Meiphonium Logo (Music Bot)
 ![Alt text](<logo2-removebg-preview (1).png>)
+
 - This logo is used outside of discord
 - mei - is derived from meiple my IGN
 - phonium - is from euphonium a brass instrument that produces sound
 - musical - represents music
 **In-app discord Logo**
 - removed the texts and leaves out the music note for cleaner in-app logo
+- 
 ![Alt text](<logo3-removebg-preview (1) (1).png>)
 ![Alt text](image-3.png)
+
 __The bot's logo in it's discord profile__
+
 ![Alt text](image-4.png)
+
 __The bot playing music__
 ## Gestalt Properties
 - Closure - the music note automatically indicates that it produces sound to the user
