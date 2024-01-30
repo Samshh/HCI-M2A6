@@ -4,6 +4,7 @@
 - 楓 - means kaede in english maple
 - samshh - from my name sam
 - 73616d fade-in-out animation - the hexadecimal value for sam in ASCII
+  
 ![Alt text](image-1.png)
 - The 2 boxes represents the computer monitor and the computer case
 ![Alt text](image-2.png)
@@ -22,10 +23,12 @@ __[link](https://samshh.netlify.app/) and [source code](https://github.com/Samsh
 ### In-app discord Logo
 - removed the texts and leaves out the music note for cleaner in-app logo
 
-__The bot's logo in it's discord profile__   
+__The bot's logo in it's discord profile__
+
 ![Alt text](image-3.png)
 
 __The bot playing music__
+
 ![Alt text](image-4.png)
 ## Gestalt Properties
 - Closure - the music note automatically indicates that it produces sound to the user
