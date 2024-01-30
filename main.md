@@ -21,14 +21,12 @@ __[link](https://samshh.netlify.app/) and [source code](https://github.com/Samsh
 - musical - represents music
 ### In-app discord Logo
 - removed the texts and leaves out the music note for cleaner in-app logo
-   
+
+__The bot's logo in it's discord profile__   
 ![Alt text](image-3.png)
 
-__The bot's logo in it's discord profile__
-
-![Alt text](image-4.png)
-
 __The bot playing music__
+![Alt text](image-4.png)
 ## Gestalt Properties
 - Closure - the music note automatically indicates that it produces sound to the user
 - Symmetry - the base and the logo in it's entirety is symmetrical as a group
