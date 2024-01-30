@@ -7,7 +7,9 @@
   
 ![Alt text](image-1.png)
 - The 2 boxes represents the computer monitor and the computer case
+  
 ![Alt text](image-2.png)
+
 __[link](https://samshh.netlify.app/) and [source code](https://github.com/Samshh/landingPage) of the website__
 ## Gestalt Properties
 - Similarity - the use of mono chromatic colors of my logo shares the same color of 0x171717 or dark gray
