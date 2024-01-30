@@ -37,4 +37,5 @@ __The bot playing music__
 - Symmetry - the base and the logo in it's entirety is symmetrical as a group
 - Similarity - use of similar colors in font
 - Figure-ground - the texts is the figure and the gradient background is the ground
+  
 __[Invite my bot to your server!](https://discord.com/api/oauth2/authorize?client_id=1182877339508555857&permissions=139589897280&scope=applications.commands%20bot)__
