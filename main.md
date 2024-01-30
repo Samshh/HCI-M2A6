@@ -19,10 +19,9 @@ __[link](https://samshh.netlify.app/) and [source code](https://github.com/Samsh
 - mei - is derived from meiple my IGN
 - phonium - is from euphonium a brass instrument that produces sound
 - musical - represents music
-**In-app discord Logo**
+### In-app discord Logo
 - removed the texts and leaves out the music note for cleaner in-app logo
-- 
-![Alt text](<logo3-removebg-preview (1) (1).png>)
+   
 ![Alt text](image-3.png)
 
 __The bot's logo in it's discord profile__
