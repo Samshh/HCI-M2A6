@@ -14,7 +14,7 @@ __[link](https://samshh.netlify.app/) and [source code](https://github.com/Samsh
 ## Gestalt Properties
 - Similarity - the use of mono chromatic colors of my logo shares the same color of 0x171717 or dark gray
 - Proximity - the different elements of the logo are grouped together
-- Continuity - the elements of the logo are arrenged in a line
+- Continuity - the elements of the logo are arranged in a line
 # Meiphonium Logo (Music Bot)
 ![Alt text](<logo2-removebg-preview (1).png>)
 
