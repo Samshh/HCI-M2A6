@@ -19,7 +19,7 @@ __[link](https://samshh.netlify.app/) and [source code](https://github.com/Samsh
 - This logo is used outside of discord
 - mei - is derived from meiple my IGN
 - phonium - is from euphonium a brass instrument that produces sound
-- musical - represents music
+- musical note - represents music
 ### In-app discord Logo
 - removed the texts and leaves out the music note for cleaner in-app logo
 
